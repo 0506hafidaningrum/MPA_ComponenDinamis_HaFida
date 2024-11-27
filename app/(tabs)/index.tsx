@@ -8,8 +8,8 @@ const Story = props => {
   return (
     <View>
       <ScrollView>
-        <PropsDinamis/> 
-        <StateDinamis/>
+        {/* <PropsDinamis/>  */}
+        {/* <StateDinamis/> */}
         <Communication/>
       </ScrollView>
     </View>
